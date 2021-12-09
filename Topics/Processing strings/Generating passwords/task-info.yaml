@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {\n    // write your code here    \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9044#comment
+status: Failed
+feedback:
+  message: "Failed test #13 of 17. Runtime error\n\nError:\nException in thread \"\
+    main\" java.util.NoSuchElementException: List is empty.\n\tat kotlin.collections.CollectionsKt___CollectionsKt.last(_Collections.kt:416)\n\
+    \tat MainKt.main(main.kt:78)\n\tat MainKt.main(main.kt)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
+    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:64)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:176)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:186)\n"
+  time: Wed, 08 Dec 2021 11:45:38 UTC
+record: -1
